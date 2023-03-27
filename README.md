@@ -9,3 +9,6 @@ https://www.kaggle.com/competitions/deepfake-detection-challenge/data,
 https://www.sciencedirect.com/science/article/pii/S2589871X2200002X, 
 https://openaccess.thecvf.com/content/ICCV2021W/RPRMI/papers/Das_Towards_Solving_the_DeepFake_Problem_An_Analysis_on_Improving_DeepFake_ICCVW_2021_paper.pdf, 
 https://paperswithcode.com/paper/combining-efficientnet-and-vision
+
+Стартовый колаб
+https://colab.research.google.com/drive/16fpFF5Y94POk9jMFNZqRf-0V553NYyn3?usp=sharing
